@@ -58,7 +58,7 @@ Russian                 | native
 
 ## Work Experience
 
-# 2020-now
+### 2020-now
 Notary office – **Senior System Administrator** <br />
 `windows` `linux` `github` `jenkins` <br />
 Achievements: <br />
@@ -66,7 +66,7 @@ Achievements: <br />
 -Introduction of automatic back-up coping <br />
 -Introduction of monitoring system <br />
 
-# 2019-2020 <br />
+### 2019-2020 <br />
 STIS – **System Administrator** <br />
 `windows` `linux` `zabbix` `cisco` `ansible` `bash` `powershell` `vmware` `hyperv` <br />
 Achievements: <br />
@@ -74,7 +74,7 @@ Achievements: <br />
 -Diagnostics and monitoring of servers’ errors and bugs <br />
 -Technical department employee training <br />
 
-# 2017-2019 <br />
+### 2017-2019 <br />
 VRNH (Vladimir Region Notarial House) – **System Administrator** <br />
 `windows` `engineering skills` `office equipment` `lan` `tcp/ip` <br />
 Achievements: <br />
@@ -82,7 +82,7 @@ Achievements: <br />
 -Introduction of SIP-phone system <br />
 -Introduction of JIRA Help Desk <br />
 
-# 2016-2017 <br />
+### 2016-2017 <br />
 SantON - **IT-specialist**
 `windows` `engineering skills` `office equipment` `1C-Bitrix` `SIP` <br />
 Responsibilities: <br />
