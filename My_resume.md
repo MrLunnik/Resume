@@ -83,7 +83,7 @@ Achievements: <br />
 -Introduction of JIRA Help Desk <br />
 
 ### 2016-2017 <br />
-SantON - **IT-specialist**
+SantON - **IT-specialist** <br />
 `windows` `engineering skills` `office equipment` `1C-Bitrix` `SIP` <br />
 Responsibilities: <br />
 - Managing environment and infrastructure <br />
