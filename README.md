@@ -84,7 +84,7 @@ Achievements: <br />
 
 # 2016-2017 <br />
 SantON - **IT-specialist**
-`windows` `engineering skills` `office equipment` `1C-Bitrix` `SIP` 
+`windows` `engineering skills` `office equipment` `1C-Bitrix` `SIP` <br />
 Responsibilities: <br />
 - Managing environment and infrastructure <br />
 - SIP-phone system setup and administration <br />
