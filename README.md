@@ -1,8 +1,8 @@
 ### Resume
 ## Personal Data
-First Name - Dmitry < /br>
-Last Name -	Korochin < /br>
-e-mail - korochin.d@inbox.ru < /br>
+First Name - Dmitry <br />
+Last Name -	Korochin <br />
+e-mail - korochin.d@inbox.ru 
 Address -	Vladimir, Russia
 ## Summary
 Can Do.
