@@ -1,4 +1,5 @@
-### Resume **DevOps Engineer**
+### Resume: 
+**DevOps Engineer**
 ## Personal Data
 key        | value
 -----------|------
