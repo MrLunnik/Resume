@@ -55,6 +55,8 @@ communication           | `more`
 honesty                 | `more`
 positive attitude       | `more`
 negotiation             | `less`
+loyalty                 | `more`
+backbone                | `more`
 
 ------
 
