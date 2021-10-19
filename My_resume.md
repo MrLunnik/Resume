@@ -18,9 +18,10 @@ Address    | Vladimir, Russia
 1. Problem Solving. <br />
 1. Cloud engineering. <br />
 1. Jenkins deployment. <br />
+1. CI/CD understanding. <br />
 1. Excellent troubleshooting and analytical skills. <br />
 1. Ability to meet deadlines and handle multiple tasks. <br />
-1. CI/CD understanding. <br />
+
 
 ------
 
