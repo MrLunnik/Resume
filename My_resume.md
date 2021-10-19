@@ -90,7 +90,8 @@ Responsibilities: <br />
 - SIP-phone system setup and administration <br />
 - current IT-tasks
 
-<br /> ## Education
+<br /> 
+## Education
 Vladimir State University 2007-2012
 
 ## Additional
