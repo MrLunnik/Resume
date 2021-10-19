@@ -1,4 +1,4 @@
-### Resume: <br /?
+### Resume: <br />
 **DevOps Engineer** <br />
 ## Personal Data
 
