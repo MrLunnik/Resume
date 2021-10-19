@@ -34,13 +34,14 @@ Docker          | `mid`
 Kubernetes      | `low`
 Bash            | `low`
 Ansible         | `low`
-Linux           | `high`
+Linux           | `mid`
 Windows         | `high`
 Java            | `low`
 PHP             | `low`
-Jenkins         | `mid`
+Jenkins         | `low`
 VMware          | `mid`
 GitHub          | `high`
+Engineering     | `high`
 
 ------
 
@@ -91,6 +92,8 @@ Achievements: <br />
 -Introduction of automatic HW updating <br /> 
 -Diagnostics and monitoring of servers’ errors and bugs <br />
 -Technical department employee training <br />
+-Equipment inventory <br />
+-New workplaces setup and preparation <br />
 
 ### 2017-2019 <br />
 VRNH (Vladimir Region Notarial House) –  **System Administrator** <br />
