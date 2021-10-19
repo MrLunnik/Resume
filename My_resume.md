@@ -75,7 +75,7 @@ Russian                 | native
 
 ### 2020-now
 Notary office – **Senior System Administrator** <br />
-`windows` `linux` `github` `jenkins` <br />
+Core skills: `windows` `linux` `github` `jenkins` <br />
 Achievements: <br />
 -Introduction of automatic HW updating <br /> 
 -Introduction of automatic back-up coping <br />
@@ -83,7 +83,7 @@ Achievements: <br />
 
 ### 2019-2020 <br />
 STIS – **System Administrator** <br />
-`windows` `linux` `zabbix` `cisco` `ansible` `bash` `powershell` `vmware` `hyperv` <br />
+Core skills: `windows` `linux` `zabbix` `cisco` `ansible` `bash` `powershell` `vmware` `hyperv` <br />
 Achievements: <br />
 -Introduction of automatic HW updating <br /> 
 -Diagnostics and monitoring of servers’ errors and bugs <br />
@@ -91,7 +91,7 @@ Achievements: <br />
 
 ### 2017-2019 <br />
 VRNH (Vladimir Region Notarial House) –  **System Administrator** <br />
-`windows` `engineering skills` `office equipment` `lan` `tcp/ip` <br />
+Core skills: `windows` `engineering skills` `office equipment` `lan` `tcp/ip` <br />
 Achievements: <br />
 -Projected and realized a plan of deep company restructurization, including installation of office equipment, workplaces and network infrastructure <br />
 -Introduction of SIP-phone system <br />
@@ -99,7 +99,7 @@ Achievements: <br />
 
 ### 2016-2017 <br />
 SantON -  **IT-specialist** <br />
-`windows` `engineering skills` `office equipment` `1C-Bitrix` `SIP` <br />
+Core skills: `windows` `engineering skills` `office equipment` `1C-Bitrix` `SIP` <br />
 Responsibilities: <br />
 - Managing environment and infrastructure <br />
 - SIP-phone system setup and administration <br />
