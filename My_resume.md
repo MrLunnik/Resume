@@ -88,9 +88,8 @@ SantON - **IT-specialist** <br />
 Responsibilities: <br />
 - Managing environment and infrastructure <br />
 - SIP-phone system setup and administration <br />
-- current IT-tasks
+- current IT-tasks <br /> 
 
-<br /> 
 ## Education
 Vladimir State University 2007-2012
 
