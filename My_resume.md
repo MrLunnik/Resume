@@ -14,13 +14,13 @@ Address    | Vladimir, Russia
 ------
 
 ## Summary 
-Can Do. <br />
-Problem Solving. <br />
-Cloud engineering. <br />
-Jenkins deployment. <br />
-Excellent troubleshooting and analytical skills. <br />
-Ability to meet deadlines and handle multiple tasks. <br />
-CI/CD understanding. <br />
+1. Can Do. <br />
+1. Problem Solving. <br />
+1. Cloud engineering. <br />
+1. Jenkins deployment. <br />
+1. Excellent troubleshooting and analytical skills. <br />
+1. Ability to meet deadlines and handle multiple tasks. <br />
+1. CI/CD understanding. <br />
 
 ------
 
