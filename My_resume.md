@@ -1,5 +1,5 @@
-### Resume: 
-**DevOps Engineer**
+### Resume: <br /?
+**DevOps Engineer** <br />
 ## Personal Data
 
 ------
@@ -44,7 +44,7 @@ GitHub          | `high`
 ------
 
 ## Soft Skills
-### more or less developed
+*more or less developed*
 key                     | value
 ----------------------- | -----
 personal effectiveness  | `more`
